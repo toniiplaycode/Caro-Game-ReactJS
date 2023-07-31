@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Caro-Game-ReactJS/static/css/main.ed13c4e3.css",
+    "main.js": "/Caro-Game-ReactJS/static/js/main.31f4798e.js",
+    "static/media/gettogether.png": "/Caro-Game-ReactJS/static/media/gettogether.2805c2b76e20d2ccc713.png",
+    "static/media/success.png": "/Caro-Game-ReactJS/static/media/success.ddecdcf2bf1bd7e9f323.png",
+    "static/media/chicken.png": "/Caro-Game-ReactJS/static/media/chicken.99fdad2c8f0618dfc708.png",
+    "index.html": "/Caro-Game-ReactJS/index.html",
+    "main.ed13c4e3.css.map": "/Caro-Game-ReactJS/static/css/main.ed13c4e3.css.map",
+    "main.31f4798e.js.map": "/Caro-Game-ReactJS/static/js/main.31f4798e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed13c4e3.css",
+    "static/js/main.31f4798e.js"
+  ]
+}
